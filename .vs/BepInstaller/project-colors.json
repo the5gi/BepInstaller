@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21c1b331-c7b5-4ebc-8d60-3471810b6fee": {
+      "ProjectGuid": "21c1b331-c7b5-4ebc-8d60-3471810b6fee",
+      "DisplayName": "BepInstaller",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
